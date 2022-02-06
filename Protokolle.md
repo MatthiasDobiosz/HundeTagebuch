@@ -16,4 +16,4 @@
 - Auswertung, evaluation und Dokumentation  der Wettbewerbsanalyse abgeschlossen 
 - Auswertung und Evaluation und Dokumentation der Interviews angefangen 
 - Konzipierung der Fokusgruppe noch nicht vollständig abgeschlossen, Rekrutierung ab nächster Woche
-- Plan für die kommende Woche: Vervollständigen von Interviews, Konzipierung der Fokusgruppe sowie beginnen der Rekrutierung für die Fokusgruppe und eventuelle Durchfühhrung
+- Plan für die kommende Woche: Vervollständigen von Interviews, Konzipierung der Fokusgruppe sowie beginnen der Rekrutierung für die Fokusgruppe und eventuelle Durchführung
