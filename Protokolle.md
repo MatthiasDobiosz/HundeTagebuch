@@ -17,3 +17,9 @@
 - Auswertung und Evaluation und Dokumentation der Interviews angefangen 
 - Konzipierung der Fokusgruppe noch nicht vollständig abgeschlossen, Rekrutierung ab nächster Woche
 - Plan für die kommende Woche: Vervollständigen von Interviews, Konzipierung der Fokusgruppe sowie beginnen der Rekrutierung für die Fokusgruppe und eventuelle Durchführung
+
+# Sprintmeeting 4 am 13.02.2022
+
+- Auswertung, Evaluation und Dokumentation der Interviews abgeschlossen
+- Fokusgruppe: Für den geplanten Termin am 14.2 keine Rückmeldungen bei der Rekrutierung übers Forum bekommen, somit Verzögerung der Fokusgruppe und Ausweichen auf Bekanntenkreis oder andere Rekrutierungsformen notwendig
+- Plan für kommende Woche: Rekrutierung für die Fokusgruppe, Starten der grundlegenden Konzipierung für die Anforderungsspezifizierung auf Basis der bereits erhobenen Daten
