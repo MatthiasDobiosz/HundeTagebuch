@@ -23,3 +23,8 @@
 - Auswertung, Evaluation und Dokumentation der Interviews abgeschlossen
 - Fokusgruppe: Für den geplanten Termin am 14.2 keine Rückmeldungen bei der Rekrutierung übers Forum bekommen, somit Verzögerung der Fokusgruppe und Ausweichen auf Bekanntenkreis oder andere Rekrutierungsformen notwendig
 - Plan für kommende Woche: Rekrutierung für die Fokusgruppe, Starten der grundlegenden Konzipierung für die Anforderungsspezifizierung auf Basis der bereits erhobenen Daten
+
+# Sprintmeeting 5 am 20.02.2022
+
+- Verzug der Fokusgruppe aufgrund mangelnder Teilnehmeranzahl und Klausurenphase
+- Personas und User Stories auf Grundlage der Interviews erstellt --> Anpassung offen, falls sich durch die Fokusgruppe noch was ändert
