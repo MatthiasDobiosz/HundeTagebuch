@@ -28,3 +28,8 @@
 
 - Verzug der Fokusgruppe aufgrund mangelnder Teilnehmeranzahl und Klausurenphase
 - Personas und User Stories auf Grundlage der Interviews erstellt --> Anpassung offen, falls sich durch die Fokusgruppe noch was ändert
+
+# Sprintmeeting 6 am 27.02.2022
+
+- Nochmaliges Aufgreifen der Taskanalyse
+- Plan für kommende Woche: erste Prototypen erstellen und Text zu Taskanalyse verfassen
