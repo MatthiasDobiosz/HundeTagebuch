@@ -33,3 +33,9 @@
 
 - Nochmaliges Aufgreifen der Taskanalyse
 - Plan für kommende Woche: erste Prototypen erstellen und Text zu Taskanalyse verfassen
+
+# Sprintmeeting 7 am 06.03.2022
+
+- Erstellung und Evaluation des Low-Fidelity Prototypen abgeschlossen
+- Medium-Fidelity Prototyp erstell, aber noch nicht evaluiert
+- Plan für kommende Woche: Medium Fidelity evaluieren + High Fidelity erstellen und evaluieren
