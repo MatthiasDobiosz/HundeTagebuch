@@ -5,3 +5,4 @@ In diesem Repository finden Sie die Dokumentation für underen Hundetagebuch App
 
 
 Den Protokolle finden sie [hier](./Protokolle.md).
+Das Interviewskript finden sie [hier] (./Skript Interview.pdf).
