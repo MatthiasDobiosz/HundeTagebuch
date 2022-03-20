@@ -5,4 +5,17 @@ In diesem Repository finden Sie die Dokumentation für underen Hundetagebuch App
 
 
 Den Protokolle finden sie [hier](./Protokolle.md).
-Das Interviewskript finden sie [hier] (./Skript Interview.pdf).
+
+Das Interviewskript finden sie [hier](https://github.com/MatthiasDobiosz/HundeTagebuch/blob/main/Skript%20Interview.pdf).
+
+Die Interview Transkripte finden sie [hier](https://github.com/MatthiasDobiosz/HundeTagebuch/tree/main/01-Interviews).
+
+Die Feature Matrix kann [hier](https://github.com/MatthiasDobiosz/HundeTagebuch/blob/main/FeatureMatrix.xlsx) gedownloaded werden.
+
+Die Videos zur Fokusgruppe finden die [hier](https://github.com/MatthiasDobiosz/HundeTagebuch/tree/main/Fokusgruppe).
+
+Die Videos und Bilder des Papier Prototypen finden sie [hier](https://github.com/MatthiasDobiosz/HundeTagebuch/tree/main/Paper%20Prototype).
+
+Die Videos, Dateien und Bilder des Medium Fidelity Prototypen finden sie [hier](https://github.com/MatthiasDobiosz/HundeTagebuch/tree/main/Medium%20Fidelity).
+
+Alle Daten zum High Fidelity Prototypen finden sie [hier](https://github.com/MatthiasDobiosz/HundeTagebuch/tree/main/High-Fidelity).
