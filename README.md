@@ -11,7 +11,7 @@ In diesem Repository finden Sie die Dokumentation für underen Hundetagebuch App
 ### Ursprünglicher Projektplan
 - [Zeitplan](https://github.com/MatthiasDobiosz/HundeTagebuch/blob/main/ZeitplanProjekt.xlsx)
 ### Anforderungserhebung
-- [Interviewskript](https://github.com/MatthiasDobiosz/HundeTagebuch/blob/main/Skript%20Interview.pdf)
+- [Interviewskript](https://github.com/MatthiasDobiosz/HundeTagebuch/blob/main/Anforderungserhebung/Interviews/Skript%20Interview.pdf)
 - [Interviewtranskripte](https://github.com/MatthiasDobiosz/HundeTagebuch/blob/main/Interviewtranskripte.pdf)
 - [Feature Matrix](https://github.com/MatthiasDobiosz/HundeTagebuch/blob/main/FeatureMatrix.xlsx)
 - [Fokusgruppe](https://github.com/MatthiasDobiosz/HundeTagebuch/tree/main/Fokusgruppe)
