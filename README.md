@@ -5,7 +5,7 @@ In diesem Repository finden Sie die Dokumentation für underen Hundetagebuch App
 
 ## Links:
 ### Dokumentation
-- [Dokumentation der Arbeit]()
+- **[Dokumentation der Arbeit]()**
 - [Protokolle](./Protokolle.md)
 - [Sprints](https://github.com/MatthiasDobiosz/HundeTagebuch/projects)
 ### Ursprünglicher Projektplan
