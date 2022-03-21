@@ -37,5 +37,20 @@
 # Sprintmeeting 7 am 06.03.2022
 
 - Erstellung und Evaluation des Low-Fidelity Prototypen abgeschlossen
-- Medium-Fidelity Prototyp erstell, aber noch nicht evaluiert
+- Medium-Fidelity Prototyp erstellt, aber noch nicht evaluiert
 - Plan für kommende Woche: Medium Fidelity evaluieren + High Fidelity erstellen und evaluieren
+
+# Sprintmeeting 8 am 13.03.2022
+
+- Alles geplante geschafft
+- Meeting mit David steht an
+- Text für Prototypen fertig schreiben --> nächste Woche
+
+# Sprintmeeting 9 am 20.03.2022
+
+- Alles Inhaltliche soweit fertig
+- Kleinigkeiten noch zu überarbeiten
+- alle Dateien in Github hinzufügen
+- APA gerecht machen
+- Formatierung anpassen
+- Morgen Abgeben nicht vergessen + David hinzufügen
